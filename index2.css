@@ -1,0 +1,40 @@
+body{
+    background-image: url("mountains.jpg");
+}
+
+.para
+{
+    font-family: Centaur;
+    font-size: x-large;
+    font-weight: bolder;
+    background-color: burlywood;
+    
+ 
+
+}
+.form
+{
+    padding-left: 25px;
+}
+.hiddenText2{
+    color: red;
+    font-family: "Arial Black";
+    font-size: xx-small !important;
+    font-weight: bold;
+    padding: none;
+    margin: none;
+}
+.hiddenText1{
+    color: red;
+    font-family: "Arial Black";
+    font-size: xx-small !important;
+    font-weight: bold;
+    padding: none;
+    margin: none;
+}
+
+
+
+
+
+
